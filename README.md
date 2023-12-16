@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edotaglialatela
 - 👀 I’m interested in numerical simulations
 - 🌱 I’m currently learning python and matlab
-- 🏎️ Head of the aerodynamics and cooliong department @ Scuderia Vanvitelli
+- 🏎️ Head of the aerodynamics and cooling department @ Scuderia Vanvitelli
 - 🌀 Simulating with Ansys FLUENT and learning OpenFOAM
 - 💞️ I’m looking forward to collaborating on interesting projects
 - 📫 t.edoardo@live.com
