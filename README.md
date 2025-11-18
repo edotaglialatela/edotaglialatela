@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @edotaglialatela
-- 👀 My main interest is Computational Fluid Dynamics
+- 🌀 My main interest is Computational Fluid Dynamics
 - 🌱 I’m currently learning python and C++
 - 🏎️ Former head of the aerodynamics and cooling department @ Scuderia Vanvitelli
-- 🌀 Simulating with Ansys FLUENT and OpenFOAM
-- 💞️ I’m looking forward to collaborating on interesting projects
-- 📫 t.edoardo@live.com
+- 📫 feliceedoardo.taglialatela@unicampania.it
