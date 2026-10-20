@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edotaglialatela
 - 🌀 My main interest is Computational Fluid Dynamics
-- 🌱 I’m currently learning python and C++
+- 🌱 Currently part of the ECOGEN dev team
 - 🏎️ Former head of the aerodynamics and cooling department @ Scuderia Vanvitelli
 - 📫 feliceedoardo.taglialatela@unicampania.it
